@@ -1,5 +1,5 @@
 # KDR
-List of Linux kernel data races found in recent 5 years
+
 <br>
 <h2>References:</h2>
 <table>
