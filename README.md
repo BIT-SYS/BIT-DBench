@@ -1,2 +1,2 @@
 # DBench-Java
-Defect detection benchmark in Java
+Defect detection benchmark
