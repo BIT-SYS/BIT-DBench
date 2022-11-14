@@ -9,4 +9,4 @@ In Java, we have collected resource leak, NPE and SQL injection defects in Java 
 | NPE | 209 |
 | SQL injection | 84 |
 
-Each directory, such as JLeaks, JNPES and JSQLIs, contains defect-specific information and the corresponding source code files. We will further add some data on xss.
+Each directory, such as JLeaks, JNPES and JSQLIs, contains defect-specific information and the corresponding source code files. We will further add some data on XSS.
