@@ -1,6 +1,4 @@
-# DBench
-Defect detection benchmark
-
+# DBench: Defect detection benchmark
 
 We have collected resource leak, NPE and SQL injection defects in Java programming language. The number of defects in each category is as follows:
 | categories | number | 
